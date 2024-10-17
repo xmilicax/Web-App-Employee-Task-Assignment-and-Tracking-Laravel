@@ -13,7 +13,7 @@ There are four types of roles - Guest, Executor, Manager and Administrator.
 
 **Guest** has the ability to:
 - visit homepage
-- register
+- register (with e-mail confirmation)
 - login
 - reset password
 
@@ -38,7 +38,7 @@ There are four types of roles - Guest, Executor, Manager and Administrator.
 - list all, create, edit and delete any comment
 - mark tasks as complete or cancelled
 
-To quickly login, please see the credentials in the file pass.txt. 
+To quickly login, please see the credentials in the file **pass.txt**. 
 
 ###### [SRB]
 
@@ -52,7 +52,7 @@ Postoje četiri tipa korisnika: Gost, Izvršilac, Rukovodilac odeljenja i Admini
 
 **Gost** ima mogućnost da:
 - poseti početnu stranicu
-- registruje se
+- registruje se (uz potvrdu putem e-mail-a)
 - prijavi se
 - promeni lozinku
 
@@ -77,7 +77,7 @@ Postoje četiri tipa korisnika: Gost, Izvršilac, Rukovodilac odeljenja i Admini
 - izlistava, pravi, izmenjuje i komentare
 - označi zadatak kao završen ili otkazan
 
-Za brzu prijavu, molimo unesite podatke iz fajla pass.txt.
+Za brzu prijavu, molimo unesite podatke iz fajla **pass.txt**.
 
 ________________________________________________________________________________________________________________________
 
